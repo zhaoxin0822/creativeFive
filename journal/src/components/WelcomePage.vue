@@ -18,6 +18,11 @@
         <button class="alternate" type="submit">Register</button>
       </form>
     </div>
+    <div class="header">
+      <font color = "white">
+            <a href="https://github.com/zhaoxin0822/creativeFive"><font color = "lightgray">Github</font></a>
+      </font>
+    </div>
   </div>
 </template>
 
